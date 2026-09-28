@@ -78,6 +78,8 @@ A worker who technically sets their own hours and owns their equipment can still
 
 ## Part 4: Job Aid
 
+![New Hire Classification Checklist](job_aid.png)
+
 Once the reasoning above makes sense, you won't need to re-read all of it for every new hire. This checklist is the condensed version — pull it up in the moment, for a quick, practical walkthrough.
 
 *(This section assumes you already understand the reasoning in Part 1. It's built for quick reference, not for learning the concept for the first time.)*
